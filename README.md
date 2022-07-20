@@ -2,9 +2,9 @@
 
 A repository filled with codewars challenges (kata). Completing at least one kata every day.
 
-## How It's Made:
+## Tech used: ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=CSS3&logoColor=white&style=flat)
 
-**Tech used:** ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=CSS3&logoColor=white&style=flat)
+Every day learning something new about JavaScript.
 
 ## Lessons Learned:
 
