@@ -1,6 +1,6 @@
 # CodeWars Challenges
 
-A repository filled with codewars challenges (kata). Completing at least one kata every day.
+A repository filled with codewars challenges (kata). I try to complete at least one kata every day.
 
 ## Tech used: ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=CSS3&logoColor=white&style=flat)
 
